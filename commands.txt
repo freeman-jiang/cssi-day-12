@@ -1,0 +1,7 @@
+GIT:
+git add --all && git commit -m "MY COMMIT MESSAGE" && git push
+
+git add --all && git commit -m "View notes" && git push
+
+START:
+firebase emulators:start --only hosting
